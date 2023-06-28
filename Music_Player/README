@@ -1,0 +1,51 @@
+# Music Player
+
+Music Player is a simple application built with Python and Tkinter that allows users to play music files on their computer. It provides basic functionality such as playing, stopping, pausing, and resuming music playback. Users can select multiple music files to create a playlist and control the playback using the provided buttons.
+
+## Features
+
+- Play music files: Select and play music files in popular formats, such as MP3, using the file selection dialog.
+- Stop music playback: Stop the currently playing music file.
+- Pause and resume music playback: Pause and resume the playback of the currently playing music file.
+- User-friendly interface: The application has a clean and intuitive interface, making it easy to use for all users.
+
+## Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/your-username/music-player.git
+
+2.Install the required dependencies. Make sure you have Python and Pygame installed:
+
+  ```shell
+  pip install pygame
+
+## Usage
+
+1.Navigate to the project directory:
+
+  ```shell
+  cd Music_Player
+
+2.Run the Game:
+
+  ```shell
+  python Music_Player.py
+
+The application window will appear. Click the "Play" button to select music files and start playing them.
+Use the "Stop," "Pause," and "Unpause" buttons to control the playback of the music files.
+To exit the application, click the "Exit" button or close the application window.
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
+
+## Acknowledgements
+The Music Player application is built using Python and the Tkinter library.
+
+## Contact
+If you have any questions, feel free to reach out:
+
+Email: sarthakkul2311@gmail.com
+GitHub: Sarthakkul2311
+Instagram: sarthakkulkarni__
