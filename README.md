@@ -39,7 +39,9 @@ We appreciate contributions to enhance our Python projects! If you find any issu
 If you have any questions or would like to know more about our Python projects or DIGIBHEM, please feel free to reach out:
 
 Email: sarthakkul2311@gmail.com
+
 GitHub: Sarthakkul2311
+
 Instagram: sarthakkulkarni__
 
 I hope you find these Python projects useful and inspiring. Happy coding!
