@@ -20,7 +20,7 @@ Snake Game is a classic game implemented in Python using the Pygame library. It 
   ```shell
   pip install pygame
 
-##Usage
+## Usage
 
 1.Navigate to the project directory:
 
