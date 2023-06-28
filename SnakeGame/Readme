@@ -1,0 +1,53 @@
+# Snake Game
+
+Snake Game is a classic game implemented in Python using the Pygame library. It provides a simple and enjoyable gaming experience where the player controls a snake, trying to eat targets to grow longer. The game ends if the snake collides with itself or the boundaries of the game screen.
+
+## Features
+
+- Intuitive controls: Use the arrow keys to control the snake's movement.
+- Score tracking: The game keeps track of the player's score, which increases each time the snake eats a target.
+- Game Over screen: When the game ends, a Game Over screen is displayed, showing the final score and providing options to quit or play again.
+
+## Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/Sarthakkul2311/SnakeGame.git
+
+2.Install the required dependencies. Make sure you have Python and Pygame installed:
+
+  ```shell
+  pip install pygame
+
+##Usage
+
+1.Navigate to the project directory:
+
+  ```shell
+  cd snake-game
+
+2.Run the Game:
+
+  ```shell
+  python snake_game.py
+
+Use the arrow keys to control the snake's movement.
+Try to eat the targets and avoid colliding with the snake's body or the game screen boundaries.
+When the game ends, you can choose to quit or play again.
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+The Snake Game is inspired by the classic Snake game and was created using the Pygame library.
+
+## Contact
+If you have any questions, feel free to reach out:
+
+Email: sarthakkul2311@gmail.com
+GitHub: Sarthakkul2311
+Instagram: sarthakkulkarni__
